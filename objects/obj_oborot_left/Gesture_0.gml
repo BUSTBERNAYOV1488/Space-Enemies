@@ -1,0 +1,1 @@
+obj_mainchara.image_angle -= 20

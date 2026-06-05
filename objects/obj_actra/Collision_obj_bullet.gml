@@ -1,0 +1,1 @@
+healther_acth -= 100

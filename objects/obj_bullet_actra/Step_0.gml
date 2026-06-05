@@ -1,0 +1,1 @@
+effect_create_below(7, x + 0, y + 0, 0, $FF00FFFF & $ffffff);

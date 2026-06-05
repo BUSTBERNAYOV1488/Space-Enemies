@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"SOUND",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":2,
+  "compression":3,
+  "compressionQuality":10,
+  "conversionMode":0,
+  "duration":28.441626,
+  "exportDir":"",
+  "name":"SOUND",
+  "parent":{
+    "name":"Звуки",
+    "path":"folders/Звуки.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"SOUND.mp3",
+  "volume":1.0,
+}

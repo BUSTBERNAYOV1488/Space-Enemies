@@ -1,0 +1,17 @@
+GameMaker Studio 1 font texture has been backed up at C:\Users\Slava\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\mvc\1505248208_Easy_Menu_Maker_c51e6047\mvc\fonts\fnt_options\fnt_options.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\Slava\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\mvc\1505248208_Easy_Menu_Maker_c51e6047\mvc\fonts\fnt_title\fnt_title.gms1.png
+Converting GML script: C:\Users\Slava\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\mvc\1505248208_Easy_Menu_Maker_c51e6047\mvc\objects\obj_main_menu\Create_0.gml
+Converted description /// @description MODIFY THE MENU HERE
+
+Converting GML script: C:\Users\Slava\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\mvc\1505248208_Easy_Menu_Maker_c51e6047\mvc\objects\obj_main_menu\Step_0.gml
+Converted description /// @description INPUTS, ETC.
+
+Converting GML script: C:\Users\Slava\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\mvc\1505248208_Easy_Menu_Maker_c51e6047\mvc\objects\obj_main_menu\Draw_75.gml
+Converted description /// @description MODIFY VALUES IN "CREATE"
+
+Missing audiogroup for sound: 'sfx_error' - setting to default audio group
+Missing audiogroup for sound: 'sfx_select' - setting to default audio group
+Missing audiogroup for sound: 'sfx_switch' - setting to default audio group
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

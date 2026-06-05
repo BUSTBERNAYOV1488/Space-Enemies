@@ -1,0 +1,9 @@
+text_title = "";
+text_desc = "";
+alpha = 0;
+y_pos = -100;
+state = 0;
+timer = 240;
+padding = 20;
+width = 256;
+height = 64;

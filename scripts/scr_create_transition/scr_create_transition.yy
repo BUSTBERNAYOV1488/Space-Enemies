@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_create_transition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_create_transition",
+  "parent":{
+    "name":"EasyMenuMaker",
+    "path":"folders/Scripts/EasyMenuMaker.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

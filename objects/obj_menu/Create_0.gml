@@ -1,0 +1,11 @@
+start = "Новая игра"
+inisave = "Загрузить"
+exitgame = "Выход"
+settings = "Настройки"
+telegramchannel = "Выбрать скин"
+biogame = "О игре"
+achivents = "Достижения"
+selected = 1
+delay_time = 0.3
+timer = delay_time * 60
+saveri = 0

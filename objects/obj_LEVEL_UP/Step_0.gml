@@ -1,0 +1,1 @@
+global.level = clamp(global.level, 0, 100)

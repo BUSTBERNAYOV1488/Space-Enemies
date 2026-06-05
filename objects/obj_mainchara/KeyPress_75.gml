@@ -1,0 +1,1 @@
+layer_sequence_create("Assets", 1366, 768, seq_savegame);

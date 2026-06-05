@@ -1,0 +1,1 @@
+global.VCH = 0
